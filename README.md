@@ -11,11 +11,11 @@
 I'm a **Software Engineer** and **Entrepreneur** with over five years of experience building high-performance web applications, scalable backend systems, and AI-driven solutions. Currently, I am:
 
 - 🚀 **Co-Founder & CTO of [MotionSync](https://www.motionsync.io)** – Transforming how people find and access physical therapists.  
-- 🛰 **Software Engineer at NASA (OpenSpace)** – Integrating WebRTC in OpenSpace software for real-time streaming and modernizing the OpenSpace Hub platform.  
+- 🛰 **Software Engineer at [NASA's OpenSpace Project)](https://science.nasa.gov/sciact-team/openspace-project/)** – Integrating WebRTC in OpenSpace software for real-time streaming and modernizing the OpenSpace Hub platform.  
 
-Previously, I worked at **Optum (UnitedHealth Group)**, where I optimized fintech systems, improved operational efficiency, and led cloud migrations.
+Previously, I worked at **[Optum (UnitedHealth Group)](https://www.unitedhealthgroup.com/)**, where I optimized fintech systems - [Optum Bank](https://www.optumbank.com/), [Optum Pay](https://www.optum.com/en/financial-services.html), improved operational efficiency, and led cloud migrations.
 
-I specialize in **React, Node.js, Python, Java Spring Boot, and AWS**, and I'm passionate about solving complex problems with clean, scalable code.
+I specialize in **React, Node.js, Python, Java Spring Boot, Flask and AWS**, and I'm passionate about solving complex problems with clean, scalable code.
 
 ---
 
