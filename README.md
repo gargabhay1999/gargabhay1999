@@ -103,8 +103,5 @@ I've worked across multiple industries, leveraging **technology to drive innovat
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=gargabhay1999)
 
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gargabhay1999)
 
 🔥 *"Building scalable solutions, one line of code at a time!"* 🚀
