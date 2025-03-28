@@ -1,6 +1,6 @@
-# Hi there, I'm Abhay Garg! 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&&size=35&center=true&color=0074FF&width=700&height=70&duration=4100&lines=Hi+There!+👋+I'm+Abhay+Garg!)](https://git.io/typing-svg)
 
-🚀 **Co-Founder & CTO at MotionSync | Software Engineer at NASA's OpenSpace Project | MSCS'25 @ NYU**  
+🚀 **Software Engineer at NASA's OpenSpace Project | Tech Lead at MotionSync | MSCS'25 @ NYU | ex-UHG**  
 📍 Brooklyn, NY | Passionate about **AI, Full-Stack Development, and Scalable Systems**  
 🌎 [Website](https://www.abhaygarg.me) | 🔗 [LinkedIn](https://linkedin.com/in/gargabhay06) | 🏗️ [GitHub](https://github.com/gargabhay1999)  
 
